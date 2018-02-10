@@ -1,0 +1,340 @@
+<!DOCTYPE HTML>
+<!--
+Escape Velocity 2.0 by HTML5 UP
+html5up.net | @n33co
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+    <head>
+        <title>fladd.de - Homepage of Florian Krause</title>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta name="description" content="I am a researcher in cognitive neuroscience, a hobbyist composer and producer of electronic music, and a hobbyist programmer" />
+        <meta name="keywords" content="" />
+        <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700,900" rel="stylesheet" />
+        <script src="js/jquery-1.9.1.min.js"></script>
+        <script src="js/jquery.dropotron-1.3.js"></script>
+        <script src="js/config.js"></script>
+        <script src="js/5grid.min.js"></script>
+        <script src="js/5grid-ui.min.js"></script>
+        <script src="js/scroll.js"></script>
+        <noscript>
+            <link rel="stylesheet" href="css/5grid-noscript.css" />
+            <link rel="stylesheet" href="css/style.css" />
+            <link rel="stylesheet" href="css/style-desktop.css" />
+        </noscript>
+        <!--[if lte IE 8]><script src="js/html5shiv.js"></script><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-11684530-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+    </head>
+    <body class="no-sidebar">
+
+        <!-- Header Wrapper -->
+        <div id="header-wrapper" class="wrapper">
+            <div class="5grid 5grid-container">
+                <div class="row">
+                    <div class="12u">
+
+                        <!-- Header -->
+                        <div id="header">
+
+                            <!-- Logo -->
+                            <div id="logo">
+                                <h1><a href="./">fladd.de</a></h1>
+                                <span class="byline">Homepage of Florian Krause</span>
+                            </div>
+                            <!-- /Logo -->
+
+                            <!-- Nav -->
+                            <nav id="nav">
+                            <ul>
+                                <li class="active"><a
+                                    href="">Home</a>
+                                <ul>
+                                    <li><a class="scroll" href="#welcome">Welcome</a></li>
+                                    <li><a class="scroll"  href="#aboutme">About me</a></li>
+                                    <li><a class="scroll" href="#contact">Contact</a></li>
+                                </ul>
+                                </li>
+
+                                <li class="inactive"><a href="research">Research</a>
+				</li>
+                                <li class="inactive"><a href="sound">Sound</a>
+				</li>
+                                <li class="inactive"> <a href="code">Code</a>
+</li>
+                            </ul>
+                            </nav>
+                            <!-- /Nav -->
+
+                        </div>
+                        <!-- /Header -->
+
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+        <!-- /Header Wrapper -->
+
+        <!-- Main Wrapper -->
+        <div id="intro-wrapper" class="wrapper wrapper-style2">
+            <div class="title"id="welcome">Welcome</div>
+            <div class="5grid 5grid-container">
+                <div class="row">
+                    <div class="12u">
+
+                        <!-- Main -->
+                        <div id="main">
+                            <div class="5grid">
+                                <div class="row">
+                                    <div class="12u 5grid-cell-mainContent">
+
+                                        <!-- Content -->
+                                        <div id="content">
+                                            <article class="is is-post">
+                                            <header class="style1">
+                                            <h2>Hi, my name is Florian Krause<br class="mobile-hide" />
+                                            </h2>
+                                            <span class="byline">This is my personal website</span>
+                                            </header>
+                                            <a href="" class="image image-centered"><img src="images/florian.jpg"/></a>
+                                            </article>
+                                        </div>
+                                        <!-- /Content -->
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /Main -->
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /Main Wrapper -->
+
+        <!-- Highlights Wrapper -->
+        <div class="wrapper wrapper-style3">
+            <div class="title" id="aboutme">About me</div>
+            <div class="5grid 5grid-container">
+                <div class="row">
+                    <div class="12u">
+
+                        <!-- Highlights -->
+                        <div id="highlights">
+                            <div class="5grid">
+                                <div class="row">
+                                    <div class="4u">
+                                        <section class="highlight highlight-one">
+                                        <a href="research" class="image image-full"><img src="images/vbm.jpg" alt="" /></a>
+                                        <h3><a href="research">Research</a></h3>
+                                        <p>I am a researcher in Cognitive Neuroscience, currently working
+                                        as a postdoc at Brain Innovation B.V. and the Cognitive Neuroscience department of Maastricht University, The Netherlands.</p>
+                                        <ul class="actions">
+                                            <li><a href="research" class="button button-style1">More</a></li>
+                                        </ul>
+                                        </section>
+                                    </div>
+                                    <div class="4u">
+                                        <section class="highlight highlight-two">
+                                        <a href="sound" class="image image-full"><img src="images/mic.jpg" alt="" /></a>
+                                        <h3><a href="sound">Sound</a></h3>
+                                        <p>I am a hobbyist composer and producer of electronic music of various
+                                        kinds. My influences include Hip Hop, Big Beat and Electronica.
+					I also write and record my own lyrics from time to time.
+                                        </p>
+                                        <ul class="actions">
+                                            <li><a href="sound" class="button button-style1">More</a></li>
+                                        </ul>
+                                        </section>
+                                    </div>
+                                    <div class="4u">
+                                        <section class="highlight highlight-three">
+                                        <a href="code" class="image image-full"><img src="images/code.jpg" alt="" /></a>
+                                        <h3><a href="code">Code</a></h3>
+                                        <p>I am a hobbyist programmer of various scripting languages (e.g. Python, Lua).
+					My largest project at the moment is "Expyriment", a Python library for cognitive
+					and neuroscientific experiments.
+                                        </p>
+                                        <ul class="actions">
+                                            <li><a href="code" class="button button-style1">More</a></li>
+                                        </ul>
+                                        </section>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /Highlights -->
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /Highlights Wrapper -->
+
+        <!-- Footer Wrapper -->
+        <div id="footer-wrapper" class="wrapper">
+            <div class="title" id="contact">Contact</div>
+            <div class="5grid 5grid-container">
+                <div class="row">
+                    <div class="12u">
+
+                        <!-- Footer -->
+                        <div id="footer">
+                            <header class="style1">
+                            <h2>Want to get in touch with me?</h2>
+                            <p class="byline">
+                            No problem! Just leave me a message,
+                            (e)mail me, or find me on social networks.
+                            </p>
+                            </header>
+                            <hr />
+                            <div class="5grid">
+                                <div class="row">
+                                    <div class="6u">
+
+                                        <!-- Contact Form -->
+                                        <section class="footer-one">
+                                        <form method="post" action="contact.py">
+<input type="hidden" name="section" value="home"/>
+                                            <div class="5grid">
+                                                <div class="row">
+                                                    <div class="6u">
+                                                        <input type="text" class="text" name="name" id="contact-name" placeholder="Name" />
+                                                    </div>
+                                                    <div class="6u">
+                                                        <input type="text" class="text" name="email2" id="contact-email" placeholder="Email" />
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="12u">
+                                                        <textarea name="message" id="contact-message" placeholder="Message"></textarea>
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="6u">
+                                                        <input name="email" class="text2" id="contact-verification" placeholder="Do not fill in!" />
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="12u">
+                                                        <ul class="actions">
+                                                            <li><input type="submit" class="button button-style1" value="Send" /></li>
+                                                            <li><input type="reset" class="button button-style2" value="Reset" /></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </form>
+                                        </section>
+                                        <!-- /Contact Form -->
+
+                                    </div>
+                                    <div class="6u">
+
+                                        <!-- Contacts -->
+                                        <section class="footer-two">
+                                        <div class="feature-list feature-list-small">
+                                            <div class="5grid">
+                                                <div class="row">
+                                                    <div class="6u">
+                                                        <section>
+                                                        <h3 class="icon icon-home">Address</h3>
+                                                        <p>
+                                                        <strong>Main:</strong><br />
+                                                        De Ruyterstraat 168 <br />
+                                                        6512 GG Nijmegen <br />
+                                                        The Netherlands
+                                                        <br />
+                                                        <br />
+                                                        <strong>Additional:</strong> <br />
+                                                        Am Altenrod 9 <br />
+                                                        35321 Laubach <br />
+                                                        Germany <br />
+                                                        </section>
+                                                    </div>
+                                                    <div class="6u">
+                                                        <section>
+                                                        <h3 class="icon icon-envelope">Email</h3>
+                                                        <p>
+                                                        <a href="mailto:florian.krause@fladd.de">florian.krause@fladd.de</a>
+                                                        </p>
+<p>
+                                                        <a href="mailto:siebenhundertzehn@gmail.com">siebenhundertzehn@gmail.com</a>
+                                                        </p>
+<p>
+                                                        <a href="mailto:fladd@web.de">fladd@web.de</a>
+                                                        </p>
+                                                        </section>
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="6u">
+                                                        <section>
+<h3 class="icon icon-phone">Phone</h3>
+                                                        <p>
+                                                        +31 611 763872
+                                                        </p>
+                                                        </section>
+                                                    </div>
+                                                    <div class="6u">
+                                                        <section>
+                                                        <h3 class="icon icon-comment">Social</h3>
+                                                        <p>
+                                                        <a href="http://twitter.com/fladd">@fladd</a><br />
+                                                        <a href="http://google.com/+FlorianKrause">+FlorianKrause</a><br />
+                                                        <a href="http://www.facebook.com/fladd">facebook.com/fladd</a>
+                                                        </p>
+                                                        </section>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        </section>
+                                        <!-- /Contacts -->
+
+                                    </div>
+                                </div>
+                            </div>
+                            <hr />
+			    <div style="margin: 25px auto; text-align: center;">
+			    <h2>Other websites under this domain:</h2>
+			    <br />
+			    <a href="http://blog.fladd.de" target="_blank">blog.fladd.de</a>
+			    <br />
+			    <a href="http://blog.fladd.de" target="_blank"><img src="images/blog.jpg" style="margin: 5px;"/></a>
+			    </a>
+			    <br />
+			    fladd's Blog
+			    </div>
+                        </div>
+                        <!-- /Footer -->
+
+                        <!-- Copyright -->
+                        <div id="copyright">
+                            <span>
+                                &copy; 2014, <a href="http://www.fladd.de#contact">Florian Krause</a>. Design by <a href="http://html5up.net/">HTML5 UP</a>.
+                            </span>
+                        </div>
+                        <!-- /Copyright -->
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /Footer Wrapper -->
+
+    </body>
+</html>
